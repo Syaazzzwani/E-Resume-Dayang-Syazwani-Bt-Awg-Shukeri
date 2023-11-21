@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Background image Example</title>
+<style>
+Body{
+    background-image: "background pledge.jpeg";
+        Background-size: cover;
+    background-position: center;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
